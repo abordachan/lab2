@@ -25,7 +25,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.274918179799997,
@@ -51,7 +51,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.369558150499998,
@@ -77,7 +77,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.558917218100007,
@@ -103,7 +103,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.483422496200006,
@@ -129,7 +129,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.4655052281,
@@ -155,7 +155,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.327634985200007,
@@ -181,7 +181,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.446995760299998,
@@ -207,7 +207,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.369873489400007,
@@ -233,7 +233,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.445313154399997,
@@ -259,7 +259,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.387262737300006,
@@ -285,7 +285,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.298509097299998,
@@ -311,7 +311,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.574493722900002,
@@ -337,7 +337,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.361302551500003,
@@ -363,7 +363,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.369565869400006,
@@ -389,7 +389,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.383611575,
@@ -415,7 +415,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.527418583,
@@ -441,7 +441,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.260666647400001,
@@ -467,7 +467,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.5702503041,
@@ -493,7 +493,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.351249902700005,
@@ -519,7 +519,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.2115040427,
@@ -545,7 +545,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.316240152700004,
@@ -571,7 +571,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.321292499,
@@ -597,7 +597,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.520893711599996,
@@ -623,7 +623,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.318375209199999,
@@ -649,7 +649,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.429346398199996,
@@ -675,7 +675,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.515304999600005,
@@ -701,7 +701,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.444269056699994,
@@ -727,7 +727,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.140237820400003,
@@ -753,7 +753,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.2876779339,
@@ -779,7 +779,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.355089395600004,
@@ -805,7 +805,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.544552361800001,
@@ -831,7 +831,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.329424822199996,
@@ -857,7 +857,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.299813290100005,
@@ -883,7 +883,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.236147071299996,
@@ -909,7 +909,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.330278616900003,
@@ -935,7 +935,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.363259573400001,
@@ -961,7 +961,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.371807146099997,
@@ -987,7 +987,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.433534710399996,
@@ -1013,7 +1013,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.368497112699998,
@@ -1039,7 +1039,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.451503740500002,
@@ -1065,7 +1065,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.557311762,
@@ -1091,7 +1091,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.499386432099996,
@@ -1117,7 +1117,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.405328833599995,
@@ -1143,7 +1143,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.438092980199997,
@@ -1169,7 +1169,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.204748527299998,
@@ -1195,7 +1195,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.315724680599999,
@@ -1221,7 +1221,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.327222314699995,
@@ -1247,7 +1247,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.521598139899993,
@@ -1273,7 +1273,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.590639535700006,
@@ -1299,7 +1299,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.498977567599994,
@@ -1325,7 +1325,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.594631098199997,
@@ -1351,7 +1351,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.552880323099998,
@@ -1377,7 +1377,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.399924534199997,
@@ -1403,7 +1403,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.422394205399996,
@@ -1429,7 +1429,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.562176656700004,
@@ -1455,7 +1455,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.491315660500007,
@@ -1481,7 +1481,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.342043225899999,
@@ -1507,7 +1507,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.4199866692,
@@ -1533,7 +1533,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.4199866692,
@@ -1559,7 +1559,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.356629149,
@@ -1585,7 +1585,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.383061748800003,
@@ -1611,7 +1611,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.420751429899994,
@@ -1637,7 +1637,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.177299397799999,
@@ -1663,7 +1663,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.462835371799997,
@@ -1689,7 +1689,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.462835371799997,
@@ -1715,7 +1715,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.424525932600005,
@@ -1741,7 +1741,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.373753370499998,
@@ -1767,7 +1767,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.525418559,
@@ -1793,7 +1793,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.525142404500002,
@@ -1819,7 +1819,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.622461794200007,
@@ -1845,7 +1845,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.267320076499999,
@@ -1871,7 +1871,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.455221513300003,
@@ -1897,7 +1897,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.494922617300006,
@@ -1923,7 +1923,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.344742415,
@@ -1949,7 +1949,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.319930574099999,
@@ -1975,7 +1975,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.3885304569,
@@ -2001,7 +2001,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.5543427124,
@@ -2027,7 +2027,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.361675451099998,
@@ -2053,7 +2053,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.3050267039999,
@@ -2079,7 +2079,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.5280276883,
@@ -2105,7 +2105,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.442602197100001,
@@ -2131,7 +2131,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.507806291700007,
@@ -2157,7 +2157,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.548674056400003,
@@ -2183,7 +2183,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.399971891500002,
@@ -2209,7 +2209,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.35009806,
@@ -2235,7 +2235,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.407939584600001,
@@ -2261,7 +2261,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.514829463699996,
@@ -2287,7 +2287,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.410823276599999,
@@ -2313,7 +2313,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.230693157399998,
@@ -2339,7 +2339,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.217175320400003,
@@ -2365,7 +2365,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.491300036400006,
@@ -2391,7 +2391,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.493453486500002,
@@ -2417,7 +2417,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.563336835900003,
@@ -2443,7 +2443,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.295201344,
@@ -2469,7 +2469,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.306528499899997,
@@ -2495,7 +2495,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.267608145500006,
@@ -2521,7 +2521,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.280559462699998,
@@ -2547,7 +2547,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.353286422300002,
@@ -2573,7 +2573,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.449885803499996,
@@ -2599,7 +2599,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.587818164200002,
@@ -2625,7 +2625,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.578437018700001,
@@ -2651,7 +2651,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.493668321499996,
@@ -2677,7 +2677,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.435343826099995,
@@ -2703,7 +2703,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.382252466300002,
@@ -2729,7 +2729,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.371075831599995,
@@ -2755,7 +2755,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.244794990100004,
@@ -2781,7 +2781,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.473961303799996,
@@ -2807,7 +2807,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.303754300700007,
@@ -2833,7 +2833,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.490238692899993,
@@ -2859,7 +2859,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.351006866299997,
@@ -2885,7 +2885,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.400237963,
@@ -2911,7 +2911,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.508695102100006,
@@ -2937,7 +2937,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.495521050099995,
@@ -2963,7 +2963,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.517616118099994,
@@ -2989,7 +2989,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.544130717800002,
@@ -3015,7 +3015,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.544130717800002,
@@ -3041,7 +3041,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.284118381200003,
@@ -3067,7 +3067,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.498782857099997,
@@ -3093,7 +3093,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.5397461835,
@@ -3119,7 +3119,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.506403709300002,
@@ -3145,7 +3145,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.393015044500004,
@@ -3171,7 +3171,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.472248807300005,
@@ -3197,7 +3197,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.355740869200005,
@@ -3223,7 +3223,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.453975901700005,
@@ -3249,7 +3249,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.3789306778,
@@ -3275,7 +3275,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.539126111599998,
@@ -3301,7 +3301,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.506869283699999,
@@ -3327,7 +3327,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.605292347200006,
@@ -3353,7 +3353,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.320795652900003,
@@ -3379,7 +3379,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.389243418500001,
@@ -3405,7 +3405,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.478552134200001,
@@ -3431,7 +3431,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.241818167100007,
@@ -3457,7 +3457,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.510647199100006,
@@ -3483,7 +3483,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.351731711900001,
@@ -3509,7 +3509,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.4985517251,
@@ -3535,7 +3535,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.210584268100007,
@@ -3561,7 +3561,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.338351243600002,
@@ -3587,7 +3587,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.543403826700001,
@@ -3613,7 +3613,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.547549106800005,
@@ -3639,7 +3639,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.408860746,
@@ -3665,7 +3665,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.443067482,
@@ -3691,7 +3691,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.477337124599998,
@@ -3717,7 +3717,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.515406362,
@@ -3743,7 +3743,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.408934829299994,
@@ -3769,7 +3769,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.3024857029,
@@ -3795,7 +3795,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.532791221799997,
@@ -3821,7 +3821,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.548554020400005,
@@ -3847,7 +3847,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.578525277099999,
@@ -3873,7 +3873,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.501630952900001,
@@ -3899,7 +3899,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.316011738,
@@ -3925,7 +3925,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.452285681099994,
@@ -3951,7 +3951,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.197778920999895,
@@ -3977,7 +3977,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.253370886499994,
@@ -4003,7 +4003,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.339444496900001,
@@ -4029,7 +4029,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.521778588800004,
@@ -4055,7 +4055,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.306517264700005,
@@ -4081,7 +4081,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.399697627500004,
@@ -4107,7 +4107,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.367449514599997,
@@ -4133,7 +4133,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.414303605399994,
@@ -4159,7 +4159,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.437459387600001,
@@ -4185,7 +4185,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.392057330499995,
@@ -4211,7 +4211,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.547517477,
@@ -4237,7 +4237,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.406311379900004,
@@ -4263,7 +4263,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.563494007800003,
@@ -4289,7 +4289,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.125463731400004,
@@ -4315,7 +4315,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.567661213400001,
@@ -4341,7 +4341,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.518809718100002,
@@ -4367,7 +4367,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.518097828199998,
@@ -4393,7 +4393,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.541521757699996,
@@ -4419,7 +4419,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.407279077,
@@ -4445,7 +4445,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.316620389799994,
@@ -4471,7 +4471,7 @@
                 "WinterPlay": "Yes"
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.346933061399994,
@@ -4497,7 +4497,7 @@
                 "WinterPlay": null
             },
             "geometry": {
-                "type": "MultiPoint",
+                "type": "Point",
                 "coordinates": [
                     [
                         -79.405313203199995,
