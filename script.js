@@ -28,13 +28,6 @@ map.on('load', () => {
     "source": "water-data",
     "id": "drinking-fountains",
     // "slot": "middle",
-    "filter":[
-      "match",
-        ["get", "type"],
-        "Dog Fountain",
-        false,
-        true
-      ],
     "paint": {
       "circle-radius": 4,
       "circle-color": "blue",
