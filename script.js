@@ -27,10 +27,10 @@ map.on('load', () => {
     "type": "circle",
     "source": "water-data",
     "id": "drinking-fountains",
-    "slot": "middle",
+    // "slot": "middle",
     "filter":[
       "match",
-        ["get", "Type"],
+        ["get", "type"],
         "Dog Fountain",
         false,
         true
@@ -51,7 +51,7 @@ map.on('load', () => {
     "source": "court-data",
     "id": "tennis-courts",
     // slot set to top so that tennis courts are above drinking fountains on map
-    "slot": "top", 
+    // "slot": "top", 
     "paint": {
       "circle-radius": 5,
       "circle-color": [
@@ -72,7 +72,7 @@ map.on('load', () => {
     "id": "court-labels",
     "type": "symbol",
     "source": "court-data",
-    "slot": "top",
+    // "slot": "top",
     "layout": {
       "text-field": [
         "to-string",
