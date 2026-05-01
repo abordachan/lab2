@@ -1,0 +1,7 @@
+/* For Lab 1, this CSS stylesheet was not used - full reliance on styling within Bootstrap framework
+BUT CSS can be used to override and tweak current style if desired */
+
+.map-container {
+    height: 100vh;
+    width: 100vw;
+}
