@@ -13,13 +13,13 @@ map.on('load', () => {
   // Add Tennis Court data source containing GeoJSON data
   map.addSource('court-data', {
     type: 'geojson',
-    data: 'https://abordachan.github.io/lab2/main/data/tennis_courts_facilities.geojson'
+    data: 'https://abordachan.github.io/lab2/data/tennis_courts_facilities.geojson'
   });
 
   // Add Drinking Fountain data source containing GeoJSON data
   map.addSource('water-data', {
     type: 'geojson',
-    data: 'https://abordachan.github.io/lab2/main/data/parks_drinking_fountains.geojson'
+    data: 'https://abordachan.github.io/lab2/data/parks_drinking_fountains.geojson'
   });
 
   // Add layer for Drinking Fountains to map
